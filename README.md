@@ -8,7 +8,7 @@ CS + Math @ Rutgers · AI & Data Engineer Intern @ IceCap Group · interested in
 - **[Bond Pricing Calc](https://github.com/Champ3624/Bond-Pricing-Calc)**: bond pricing calculator.
 
 **Work**
-- Databricks medallion lakehouses (207 tables), Salesforce data pipelines, and an MCP server powering Claude agents for business teams.
+- Databricks medallion lakehouses on Salesforce data, and an MCP server powering Claude agents for business teams.
 
 **Stack:** Python · SQL · Rust · C · Databricks · pandas · NumPy · scikit-learn
 
