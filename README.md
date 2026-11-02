@@ -1,6 +1,6 @@
 ### Hi, I'm Charles (Chuckie) Sultan
 
-CS + Math @ Rutgers · AI & Data Engineer Intern @ IceCap Group · interested in quant trading, prediction markets and market microstructure.
+CS + Math @ Rutgers · AI & Applications Engineer Intern @ IceCap Group · interested in quant trading, prediction markets and market microstructure.
 
 **Building**
 - **SBAOps** ([sbaops.com](https://sbaops.com)): real time sportsbook odds ingestion, EV calculation and cross book arbitrage alerts. Now measuring how long edges survive and why they fail to execute.
